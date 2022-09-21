@@ -25,5 +25,5 @@ services:
       - backend
       - frontend
 
-volume:
+volumes:
   react_build:
